@@ -1,8 +1,4 @@
 # API Voyages Sécurisée
-
-
-## Endpoints
-
 ### Authentification
 - `POST /api/auth/register` - Inscription
 - `POST /api/auth/login` - Connexion
